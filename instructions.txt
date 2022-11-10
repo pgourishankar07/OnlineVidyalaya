@@ -1,0 +1,25 @@
+-------------general insructions for seeing my project work
+
+My password for my postgreSQL :'123123'
+
+1. all my node js files are stored in the 'JS' folder
+2. it has 2 files ---i. one for inserting data
+		  ---ii.another for fetching data
+i.run the js code
+ii.write the SQL query in the terminal
+iii.press enter
+iv.SQL query will be executed
+---------------------------------------------------------
+3.my database file is stored in 'SQL' folder
+4.to see my table using postgreSQL ,restore my 'onlinevidya.sql' file
+5.Steps to restore:
+	i.open postgreSQL
+	ii.go to servers >> databases
+	iii.right click databases,create new database, name it as 
+onlinevidya,click create
+	iv.right click onlinevidya,click restore,in the filename tab 
+give my 'onlinevidya.sql' file path,click restore
+	v.go to onlinevidya >> schemas >> table >> student
+	vi.right click student,click view/edit data,click first 100 rows
+
+____________________________XXX__________________________________________
